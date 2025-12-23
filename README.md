@@ -66,12 +66,12 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7c662f1c-92c3-4b64-8569-ccf072e2f18f" width="420"/>
+      <img src="https://github.com/user-attachments/assets/b50b72bc-36c1-4459-accb-907663e7f335" width="420"/>
       <br/>
       <strong>KPI | Expedição</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/93379421-da50-4086-8c65-f2ce4e9d1063" width="420"/>
+      <img src="https://github.com/user-attachments/assets/f43bf300-4d79-4f7b-9b3f-9f67c420393b" width="420"/>
       <br/>
       <strong>KPI | Estoque</strong>
     </td>
@@ -79,12 +79,12 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ec55b2eb-4f65-4d72-8ed1-6bf100bbd40a" width="420"/>
+      <img src="https://github.com/user-attachments/assets/e3f83fec-cb6b-4e48-bfc6-85bc2c3dd9c4" width="420"/>
       <br/>
       <strong>KPI | Abate</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ba2f650b-f3c8-43ef-ae9c-85bf1fa7df2e" width="420"/>
+      <img src="https://github.com/user-attachments/assets/ba4df2a3-f043-40a6-8b9c-fd51c7280389" width="420"/>
       <br/>
       <strong>KPI | Quebra de Frio</strong>
     </td>
@@ -92,14 +92,14 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d4755091-8db4-4454-9c72-ae66dff8605d" width="420"/>
+      <img src="https://github.com/user-attachments/assets/c2c2d3d5-7124-464a-947d-d3e81e005664" width="420"/>
       <br/>
       <strong>KPI | Rendimento de Miúdos</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c9c10653-f429-4aa5-9263-2a5fd8a44e35" width="420"/>
+      <img src="https://github.com/user-attachments/assets/3df7022f-7b62-4f15-b5af-9592a0430caf" width="420"/>
       <br/>
-      <strong>KPI | Produção</strong>
+      <strong>KPI | Rendimento Desossa</strong>
     </td>
   </tr>
 </table>
@@ -107,12 +107,6 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 </div>
 
 
-<img width="1438" height="791" alt="image" src="https://github.com/user-attachments/assets/7c662f1c-92c3-4b64-8569-ccf072e2f18f" />
-<img width="1435" height="787" alt="image" src="https://github.com/user-attachments/assets/93379421-da50-4086-8c65-f2ce4e9d1063" />
-<img width="1439" height="792" alt="image" src="https://github.com/user-attachments/assets/ec55b2eb-4f65-4d72-8ed1-6bf100bbd40a" />
-<img width="1436" height="784" alt="image" src="https://github.com/user-attachments/assets/ba2f650b-f3c8-43ef-ae9c-85bf1fa7df2e" />
-<img width="1434" height="793" alt="image" src="https://github.com/user-attachments/assets/d4755091-8db4-4454-9c72-ae66dff8605d" />
-<img width="1441" height="778" alt="image" src="https://github.com/user-attachments/assets/c9c10653-f429-4aa5-9263-2a5fd8a44e35" />
 
 
 
