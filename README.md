@@ -58,3 +58,7 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 - Identificação de variações de rendimento
 - Impacto da quebra de frio no resultado operacional
 - Análise de gargalos na expedição
+
+## 🔗 Dashboard Interativo
+
+👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=SEU_LINK_AQUI)
