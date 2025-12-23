@@ -1,4 +1,4 @@
-# bi-industria-producao-estoque
+# bi-industria
 # 🏭 BI Industrial – Produção, Estoque e Expedição
 
 ## 📌 Contexto
