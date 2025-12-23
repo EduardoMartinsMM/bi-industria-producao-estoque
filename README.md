@@ -120,7 +120,7 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 
 ## 🔗 Dashboard Interativo
 
-👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=SEU_LINK_AQUI)
+👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmI4YTRiN2EtYmVhNy00YzkwLWIwZmItYmMyY2ViYWU3ZDU2IiwidCI6IjBmOGM0NmY1LWVlMDQtNDZjMy04ZDBlLTZjMWIxYjNkY2RhNyJ9)
 
 
 📌 Considerações Finais
