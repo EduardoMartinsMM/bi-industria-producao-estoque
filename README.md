@@ -6,6 +6,7 @@ Projeto de Business Intelligence voltado para o acompanhamento operacional de um
 com foco em produção, rendimento, perdas e controle de estoque e expedição.
 
 ⚠️ Todos os dados utilizados são fictícios e foram simulados com base em um cenário real de negócio.
+Por questões de confidencialidade, as bases de dados **não estão disponíveis** neste repositório.
 
 ---
 
