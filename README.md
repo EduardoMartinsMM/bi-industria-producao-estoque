@@ -25,7 +25,7 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 - Quebra de Frio (%)
 - Rendimento de Miúdos
 - Rendimento de Desossa
-- Estoque Inicial e Final
+- Estoque de produtos
 - Volume Expedito
 
 ---
@@ -39,7 +39,7 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 
 ## 📈 Visões do Dashboard
 - Produção (Abate)
-- Perdas e Quebra de Frio
+- Perdas e Quebra de Frio 
 - Rendimento (Miúdos e Desossa)
 - Estoque
 - Expedição
