@@ -38,26 +38,28 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 ---
 
 ## 📈 Visões do Dashboard
-- Produção (Abate)
-- Perdas e Quebra de Frio 
-- Rendimento (Miúdos e Desossa)
-- Estoque
-- Expedição
+- Produção (Abate) – análise histórica e comparativa
+- Perdas e Quebra de Frio – indicadores percentuais e tendência
+- Rendimento (Miúdos e Desossa) – acompanhamento de eficiência
+- Estoque – visão analítica diária e semanal
+- Expedição – volumes e fluxo operacional
+- Visão Gerencial – consolidação de KPIs estratégicos
 
 ---
 
 ## 🔍 Destaques Técnicos
-- Modelagem de dados para ambiente industrial
-- Criação de medidas DAX para rendimento e perdas
-- Lógica de estoque com visão diária e semanal
-- Padronização de métricas operacionais
-
+- Modelagem de dados voltada à análise analítica e gerencial
+- Desenvolvimento de medidas DAX para cálculo de indicadoresC
+- Criação de métricas reutilizáveis e padronizadas
+- Lógica de estoque com visão temporal (diária e semanal)
+- Estrutura preparada para análises comparativas e históricas
 ---
 
 ## 💡 Insights Possíveis
-- Identificação de variações de rendimento
+- Identificação de padrões e variações de desempenho
 - Impacto da quebra de frio no resultado operacional
-- Análise de gargalos na expedição
+- Apoio à identificação de pontos de atenção operacionais, sob a ótica analítica
+- Análise do impacto de perdas nos indicadores de resultado
 
 <div align="center">
 
@@ -119,3 +121,8 @@ Fornecer uma visão integrada da operação industrial, permitindo:
 ## 🔗 Dashboard Interativo
 
 👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=SEU_LINK_AQUI)
+
+
+📌 Considerações Finais
+
+Este projeto evidencia minha atuação em Business Intelligence e Análise de Dados, aplicando conceitos técnicos de BI em um cenário industrial como estudo de caso, com foco em modelagem, métricas, visualização e suporte à decisão.
